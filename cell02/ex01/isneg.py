@@ -6,5 +6,5 @@ if(a==0):
 elif(a>0): 
     print("This number is positive.")
 elif(a<0): 
-
     print("This number is negative.")
+
