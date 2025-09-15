@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+a = int(input("กรอก"))
+if(a==0): 
+    print("This number is equal to zero")
+else: 
+    print("This number is differrent from zero")
